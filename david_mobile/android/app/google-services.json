@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "649773768549",
+    "project_id": "advmobprog-firebase-444d6",
+    "storage_bucket": "advmobprog-firebase-444d6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649773768549:android:4c13f4cea6afdf2499cb8c",
+        "android_client_info": {
+          "package_name": "com.example.labact2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp_NFiipj37nF52LWBxl-ufOyKgE3UgIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
